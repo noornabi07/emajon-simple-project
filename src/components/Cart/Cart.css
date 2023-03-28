@@ -1,0 +1,11 @@
+.cart-container{
+    background-color: rgb(232, 192, 132);
+    padding: 25px;
+    position: sticky;
+    top: 15px;
+}
+
+.cart-container p{
+    font-size: 18px;
+    color: white;
+}
