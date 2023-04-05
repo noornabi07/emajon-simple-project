@@ -1,0 +1,37 @@
+.review-item{
+    border: 2px solid purple;
+    width: 570px;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding: 5px 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left-item{
+    display: flex;
+}
+.pd-info{
+    margin-left: 10px;
+}
+.pd-info h6{
+    margin-top: -13px;
+    margin-bottom: 15px;
+}
+.pd-info h4{
+    margin-top: -15px;
+}
+.dlt-btn{
+    width: 55px;
+    height: 55px;
+    background-color: rgb(230, 167, 167);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d-icon{
+    color: rgb(230, 92, 92);
+    font-size: 27px;
+}
