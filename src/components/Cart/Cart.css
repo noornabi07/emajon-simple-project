@@ -9,3 +9,14 @@
     font-size: 18px;
     color: white;
 }
+
+.clear-btn{
+    width: 95%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+}

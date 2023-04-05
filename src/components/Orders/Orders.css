@@ -1,3 +1,17 @@
 .orders{
     margin: 20px;
 }
+
+.btn-proceed{
+    width: 95%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+}
+.proceed-link{
+    text-decoration: none;
+}
