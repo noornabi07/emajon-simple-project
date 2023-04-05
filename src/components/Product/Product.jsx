@@ -19,7 +19,7 @@ const Product = (props) => {
                 Add To Cart
                 <FontAwesomeIcon className='p-icon' icon={faShoppingCart} />
                 
-                </button>
+             </button>
         </div>
     );
 };
